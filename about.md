@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Ivan Kulaha
 
-.NET Web developer based in Kiev.
+.NET Web developer based in Kyiv.
 
 Make fun stuff from ordinary things :)
 
