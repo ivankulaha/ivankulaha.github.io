@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Ivan Kulaha
 
-Some information about you!
+.NET Web developer based in Kiev.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Make fun stuff from ordinary things :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ivkulaga@gmail.com](mailto:ivkulaga@gmail.com)
